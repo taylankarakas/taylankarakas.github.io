@@ -8,7 +8,7 @@ categories: [Joy of Coding]
 reading_time: "5-6 min."
 ---
 
-Hepimiz kendi çapında belli birtakım araçlar ile uygulama geliştirmekteyiz. Daha çok web tabanlı uygulama geliştiren bir kişi olarak klasik uygulama geliştirme "soft setup"ım şu şekilde:
+epimiz kendi çapında belli birtakım araçlar ile uygulama geliştirmekteyiz. Daha çok web tabanlı uygulama geliştiren bir kişi olarak klasik uygulama geliştirme "soft setup"ım şu şekilde:
 
 - Apache Web Server
 - [Zend Server CE](http://www.zend.com/en/products/server-ce/ "Zend Server Community Edition ")
