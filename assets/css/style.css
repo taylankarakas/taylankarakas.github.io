@@ -177,10 +177,7 @@ nav.main-nav a {
 	font-size: 1rem;
 	font-family: BrandonText;
 	font-weight: 500;
-	/*font-weight: bold;*/
-	line-height: 1.65;
-	border-radius: 3px;
-
+	line-height: 20px;
 }
 nav.main-nav a.cta {
 	background: #5badf0;
