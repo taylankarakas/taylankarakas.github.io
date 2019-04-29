@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 name: Personal Website of Atil Taylan Karakas
-meta_description: "Practitioner and developer @reformo and @efabrika. Coding since '97 but I'm neither a ninja nor guru nor junkie."
+meta_description: "Frontend Developer @efabrika."
 
 aboutPage: true
 title: Personal Website of Atil Taylan Karakas
 author: Atıl Taylan Karakaş
 email: taylan@efabrika.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Practitioner and developer <a href="https://reformo.net" target="_blank">@reformo</a> and <a href="https://efabrika.com" target="_blank">@efabrika</a>. <br/>Coding since '97 but I'm neither a ninja nor guru nor junkie.
+  Frontend Developer <a href="https://efabrika.com" target="_blank">@efabrika</a>.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://taylankarakas.com" # the base hostname & protocol for your site, e.g. http://example.com
 
