@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-name: Personal Website of Atıl Taylan Karakas
+name: Personal Website of Atil Taylan Karakas
 meta_description: "Practitioner and developer @reformo and @efabrika. Coding since '97 but I'm neither a ninja nor guru nor junkie."
 
 aboutPage: true
