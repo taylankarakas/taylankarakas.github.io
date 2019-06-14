@@ -15,7 +15,9 @@ layout: default
         <label>Email:</label>
         <input type="email" required name="email">
         <label>Phone:</label>
-        <input type="tel" required name="tel">
+        <input type="tel" name="tel">
+        <label>Message:</label>
+        <input type="text" required name="message">
         <button type="submit">Send</button>
     </form>
     </section>
