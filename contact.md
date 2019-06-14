@@ -14,8 +14,6 @@ layout: default
         <input type="text" required name="name">
         <label>Email:</label>
         <input type="email" required name="email">
-        <label>Phone:</label>
-        <input type="tel" name="tel">
         <label>Message:</label>
         <textarea type="text" required name="message"></textarea>
         <button type="submit">Send</button>
